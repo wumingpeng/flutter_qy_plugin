@@ -1,0 +1,33 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_qy_plugin (0.0.1):
+    - Flutter
+    - QY_iOS_SDK (~> 6.1.0)
+  - NIMSDK_LITE (8.2.1)
+  - QY_iOS_SDK (6.1.0):
+    - NIMSDK_LITE (= 8.2.1)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_qy_plugin (from `.symlinks/plugins/flutter_qy_plugin/ios`)
+
+SPEC REPOS:
+  trunk:
+    - NIMSDK_LITE
+    - QY_iOS_SDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_qy_plugin:
+    :path: ".symlinks/plugins/flutter_qy_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  flutter_qy_plugin: f5e350a174d8363b9a4dcb95a71566a760f5da96
+  NIMSDK_LITE: 59dc586cda6bd3fba3ed70ec06efc084e955a111
+  QY_iOS_SDK: 96033ee762eb2d07fc7116fdb5f8935155145f0d
+
+PODFILE CHECKSUM: b7b81cdc385e8d1a3768d7835836f299ca330e99
+
+COCOAPODS: 1.10.1
